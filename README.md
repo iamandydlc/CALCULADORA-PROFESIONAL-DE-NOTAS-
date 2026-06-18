@@ -1,3 +1,5 @@
+<img src="1781661864344.png" alt="Logo oficial ADEX Escuela de Especialización" class="max-w-[230px] md:max-w-[260px] mx-auto block anim-flotar drop-shadow-[0_4px_10px_rgba(0,0,0,0.28)]">
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
